@@ -1,0 +1,27 @@
+1.HW7 - BERT: Question Answering
+https://www.youtube.com/watch?v=MMRScf01Ow0
+
+2.colab
+https://colab.research.google.com/drive/1m0fQjJfkK9vAovxPj9Nd3-hQuxezB2w1
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023spring-hw7
+
+4.自督導式學習(一) bert_v8.pdf
+https://www.youtube.com/watch?v=e422eloJ0W4
+自督導式學習(二)
+https://www.youtube.com/watch?v=gh0hewYkjgo
+自督導式學習(三)
+https://www.youtube.com/watch?v=ExXA05i8DEQ
+自督導式學習(四)
+https://www.youtube.com/watch?v=WY_E0Sd4K80
+
+5.成绩结果
+public：0.832 过strongline
+private：0.82633 过strongline
+
+
+
+
+
+

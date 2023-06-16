@@ -1,0 +1,23 @@
+1.HW8 - Anomaly Detection
+https://www.youtube.com/watch?v=Djaq835D4AE
+
+2.colab
+https://colab.research.google.com/drive/1iqvGMVMkmTynKI8UQWaYeXxdQXeO7CKM#scrollTo=YiVfKn-6tXz8
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023spring-hw8
+
+4.自編碼器 (Auto-encoder) (上) auto_v8.pdf
+https://www.youtube.com/watch?v=3oHlf8-J3Nc
+自編碼器 (Auto-encoder) (下)
+https://www.youtube.com/watch?v=JZvEzb5PV3U
+
+5.成绩结果
+public：0.79253 过strongline
+private：0.79424 过strongline
+
+
+
+
+
+

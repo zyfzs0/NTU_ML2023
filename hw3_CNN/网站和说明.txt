@@ -1,0 +1,23 @@
+1. HW3 - CNN: Image Classification
+https://www.youtube.com/watch?v=nm3aNToIolQ
+
+2.colab
+https://colab.research.google.com/drive/15A_8ilH-6-T3HOmSFrKbjDinBJl-s-16
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023spring-hw3
+
+4.卷積神經網路(Convolutional Neural Networks, CNN)
+https://www.youtube.com/watch?v=OP5HcXJg2Aw
+t-SNE
+https://www.youtube.com/watch?v=GBUEjkpoxXc
+
+5.成绩结果
+public：0.836 过strongline
+private：0.848 过strongline
+
+
+
+
+
+

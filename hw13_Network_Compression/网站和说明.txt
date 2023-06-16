@@ -1,0 +1,22 @@
+1.HW13 - Network Compression
+https://www.youtube.com/watch?v=IV8jgKf9ToE
+
+2.colab
+https://colab.research.google.com/drive/1rW8tgC9QpNmvOo-e7MXI2LH1ojFXjsmu?usp=sharing#scrollTo=-hQgM5oQSz5g
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023spring-hw13
+
+4.Network Compression（一） tiny_v7.pdf
+https://www.youtube.com/watch?v=utk3EnAUh-g
+Network Compression（二）
+https://www.youtube.com/watch?v=xrlbLPaq_Og
+
+5.成绩结果
+无
+
+
+
+
+
+

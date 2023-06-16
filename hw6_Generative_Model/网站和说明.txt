@@ -1,0 +1,26 @@
+1. HW5 - Machine Translation
+Machine Learning HW6
+
+2.judgeboi
+https://ml.ee.ntu.edu.tw/home
+
+3.kaggle
+https://www.kaggle.com/code/b07202024/hw6-diffusion-model
+
+4.生成式對抗網路 (GAN) (一) gan_v10.pdf
+https://www.youtube.com/watch?v=4OWp0wDu6Xw
+生成式對抗網路 (GAN) (二)
+https://www.youtube.com/watch?v=jNY1WBb8l4U
+生成式對抗網路 (GAN) (三)
+https://www.youtube.com/watch?v=MP0BnVH2yOo
+生成式對抗網路 (GAN) (四)
+https://www.youtube.com/watch?v=wulqhgnDr7E
+
+5.成绩结果
+0.648 8793.97 过bossline
+
+
+
+
+
+

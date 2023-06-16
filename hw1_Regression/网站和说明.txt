@@ -1,0 +1,24 @@
+1.Homework 1 (introduction + sample code)
+https://www.youtube.com/watch?v=iMzxjBDMvac
+
+2.colab（有点问题）
+https://colab.research.google.com/drive/1BESEu-l3qrGRULoATuXnWasUNuUlVF1Z?fbclid=IwAR1FrjUsp4rTy5PPFV-aWq6IG_Z44mFT4VH5e1lIhlekFl7fAvxGRCTCyR0
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023spring-hw1
+
+4.Lecture1: Introduction of Deep Learning  regression (v16).pdf
+預測本頻道觀看人數 (上) - 深度學習基本概念簡介
+https://www.youtube.com/watch?v=Ye018rCVvOo
+預測本頻道觀看人數 (下) - 深度學習基本概念簡介
+https://www.youtube.com/watch?v=bHcJCp2Fyxs
+
+5.成绩
+public：0.85271 过bossline
+private：0.81452 过strongline
+
+
+
+
+
+

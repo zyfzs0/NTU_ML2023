@@ -1,0 +1,23 @@
+1. Homework 4
+https://www.youtube.com/watch?v=PPO9yMrZHAs
+
+2.colab
+https://colab.research.google.com/drive/1u-610KA-urqfJjDH5O0pecwfP--V9DQs?usp=sharing
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023springhw4
+
+4.自注意力機制(Self-attention) (上)
+https://www.youtube.com/watch?v=hYdO9CscNes
+自注意力機制(Self-attention) (下)
+https://www.youtube.com/watch?v=gmsMY5kc-zw
+
+5.成绩结果
+public：0.9575 过bossline
+private：0.9555 过bossline
+
+
+
+
+
+

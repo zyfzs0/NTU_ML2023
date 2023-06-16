@@ -1,0 +1,30 @@
+1. HW2 - Multi-class Classification: Framewise Phoneme Prediction from Speech
+https://www.youtube.com/watch?v=GnpLeYSCrjo
+
+2.colab
+https://colab.research.google.com/drive/1wzeiVy2g7HpSjlidUr0Gi50NnHBWTkvN#scrollTo=KVUGfWTo7_Oj
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023spring-hw2
+
+4.Lecture 2:What to do if my network fails to train
+類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point)
+https://www.youtube.com/watch?v=QW6uINn7uGk
+類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum)
+https://www.youtube.com/watch?v=zzbr1h9sF54
+類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate)
+https://www.youtube.com/watch?v=HYUXEeh3kwY
+類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響
+https://www.youtube.com/watch?v=O2VkP8dJ5FE
+類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介
+https://www.youtube.com/watch?v=BABPWOkSbLE
+
+5.成绩结果
+public：0.8007 过strongline
+private：0.80004 过strongline
+
+
+
+
+
+

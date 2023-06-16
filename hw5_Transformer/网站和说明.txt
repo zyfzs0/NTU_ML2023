@@ -1,0 +1,25 @@
+1. HW5 - Machine Translation
+https://www.youtube.com/watch?v=NEMHBFlhvAE
+
+2.judgeboi
+https://ml.ee.ntu.edu.tw/home
+
+3.colab
+https://colab.research.google.com/drive/1qj_J9ld5KR3TTNbU5PnCAKMkDH3vN27p#scrollTo=59neB_Sxp5Ub
+
+4.批次標準化(Batch Normalization)
+https://www.youtube.com/watch?v=BABPWOkSbLE
+Transformer(上)
+https://www.youtube.com/watch?v=n9TlOhRjYoc
+Transformer (下)
+https://www.youtube.com/watch?v=N6aRv06iv2g
+
+5.成绩结果
+public：25.54 过strongline
+private：25.58 过strongline
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+1.HW15 - Meta Learning
+https://www.youtube.com/watch?v=WfsD5LKseio
+
+2.colab
+https://colab.research.google.com/drive/1tnsxsSJ0Ltr-BRGYE8rA4a4NzG7ZgnNF?usp=sharing
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023spring-hw15
+
+4. Meta Learning （一） meta_v3.pdf
+https://www.youtube.com/watch?v=xoastiYx9JU
+ Meta Learning （二）
+https://www.youtube.com/watch?v=Q68Eh-wm1Ts
+
+5.成绩结果
+无
+
+
+
+
+
+

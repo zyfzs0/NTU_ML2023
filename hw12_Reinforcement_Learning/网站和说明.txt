@@ -1,0 +1,26 @@
+1.HW12 - Reinforcement Learning
+https://www.youtube.com/watch?v=qfai89mtp1o
+
+2.colab
+https://colab.research.google.com/drive/1mzs--uJmW3fE2Dy-FIU_EKe2MIPBzz8I?usp=sharing
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023spring-hw11-test
+
+4.Reinforcement Learning（一） drl_v5.pdf
+https://www.youtube.com/watch?v=XWukX-ayIrs
+Reinforcement Learning（二）
+https://www.youtube.com/watch?v=US8DFaAZcp4
+Reinforcement Learning（三）
+https://www.youtube.com/watch?v=kk6DqWreLeU
+Reinforcement Learning（四）
+https://www.youtube.com/watch?v=75rZwxKBAf0
+
+5.成绩结果
+无
+
+
+
+
+
+

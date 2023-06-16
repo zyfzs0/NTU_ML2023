@@ -1,0 +1,23 @@
+1. HW10 - Adversarial Attack
+https://www.youtube.com/watch?v=V-LWKC2IH6E
+
+2.colab
+https://colab.research.google.com/drive/1GmZI-58gQXxu6VTYHGpf0Ob1iZ8PB4GV?usp=share_link
+
+3.judgeboi
+https://ml.ee.ntu.edu.tw/homeworks/3/description
+
+4.Adversarial Attack(上) attack_v3.pdf
+https://www.youtube.com/watch?v=xGQKhbjrFRk
+Adversarial Attack(下)
+https://www.youtube.com/watch?v=z-Q9ia5H2Ig
+
+5.成绩结果
+public：0.06 过bossline
+private：0.14 过strongline
+
+
+
+
+
+

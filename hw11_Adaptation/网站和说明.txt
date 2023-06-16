@@ -1,0 +1,21 @@
+1.HW11 - Domain Adaptation
+https://www.youtube.com/watch?v=P3_7ot21hEU
+
+2.colab
+https://colab.research.google.com/drive/1mzs--uJmW3fE2Dy-FIU_EKe2MIPBzz8I?usp=sharing
+
+3.kaggle
+https://www.kaggle.com/competitions/ml2023spring-hw11-test
+
+4.Domain Adaptation da_v6.pdf
+https://www.youtube.com/watch?v=xGQKhbjrFRk
+
+5.成绩结果
+public：0.80542 过strongline
+private：0.80542 过strongline
+
+
+
+
+
+
